@@ -1,0 +1,15 @@
+C:\Users\juanm\source\repos\TrabajoPráctico-2\TrabajoPráctico-2\bin\Debug\net6.0\TrabajoPractico-2.exe
+C:\Users\juanm\source\repos\TrabajoPráctico-2\TrabajoPráctico-2\bin\Debug\net6.0\TrabajoPractico-2.deps.json
+C:\Users\juanm\source\repos\TrabajoPráctico-2\TrabajoPráctico-2\bin\Debug\net6.0\TrabajoPractico-2.runtimeconfig.json
+C:\Users\juanm\source\repos\TrabajoPráctico-2\TrabajoPráctico-2\bin\Debug\net6.0\TrabajoPractico-2.dll
+C:\Users\juanm\source\repos\TrabajoPráctico-2\TrabajoPráctico-2\bin\Debug\net6.0\TrabajoPractico-2.pdb
+C:\Users\juanm\source\repos\TrabajoPráctico-2\TrabajoPráctico-2\obj\Debug\net6.0\TrabajoPractico-2.csproj.AssemblyReference.cache
+C:\Users\juanm\source\repos\TrabajoPráctico-2\TrabajoPráctico-2\obj\Debug\net6.0\TrabajoPractico-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanm\source\repos\TrabajoPráctico-2\TrabajoPráctico-2\obj\Debug\net6.0\TrabajoPractico-2.AssemblyInfoInputs.cache
+C:\Users\juanm\source\repos\TrabajoPráctico-2\TrabajoPráctico-2\obj\Debug\net6.0\TrabajoPractico-2.AssemblyInfo.cs
+C:\Users\juanm\source\repos\TrabajoPráctico-2\TrabajoPráctico-2\obj\Debug\net6.0\TrabajoPractico-2.csproj.CoreCompileInputs.cache
+C:\Users\juanm\source\repos\TrabajoPráctico-2\TrabajoPráctico-2\obj\Debug\net6.0\TrabajoPractico-2.dll
+C:\Users\juanm\source\repos\TrabajoPráctico-2\TrabajoPráctico-2\obj\Debug\net6.0\refint\TrabajoPractico-2.dll
+C:\Users\juanm\source\repos\TrabajoPráctico-2\TrabajoPráctico-2\obj\Debug\net6.0\TrabajoPractico-2.pdb
+C:\Users\juanm\source\repos\TrabajoPráctico-2\TrabajoPráctico-2\obj\Debug\net6.0\TrabajoPractico-2.genruntimeconfig.cache
+C:\Users\juanm\source\repos\TrabajoPráctico-2\TrabajoPráctico-2\obj\Debug\net6.0\ref\TrabajoPractico-2.dll
