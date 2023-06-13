@@ -1,0 +1,15 @@
+C:\Users\juanm\source\repos\TrabajoPractico3Ejercicio5\TrabajoPractico3Ejercicio5\bin\Debug\net6.0\TrabajoPractico3Ejercicio5.exe
+C:\Users\juanm\source\repos\TrabajoPractico3Ejercicio5\TrabajoPractico3Ejercicio5\bin\Debug\net6.0\TrabajoPractico3Ejercicio5.deps.json
+C:\Users\juanm\source\repos\TrabajoPractico3Ejercicio5\TrabajoPractico3Ejercicio5\bin\Debug\net6.0\TrabajoPractico3Ejercicio5.runtimeconfig.json
+C:\Users\juanm\source\repos\TrabajoPractico3Ejercicio5\TrabajoPractico3Ejercicio5\bin\Debug\net6.0\TrabajoPractico3Ejercicio5.dll
+C:\Users\juanm\source\repos\TrabajoPractico3Ejercicio5\TrabajoPractico3Ejercicio5\bin\Debug\net6.0\TrabajoPractico3Ejercicio5.pdb
+C:\Users\juanm\source\repos\TrabajoPractico3Ejercicio5\TrabajoPractico3Ejercicio5\obj\Debug\net6.0\TrabajoPractico3Ejercicio5.csproj.AssemblyReference.cache
+C:\Users\juanm\source\repos\TrabajoPractico3Ejercicio5\TrabajoPractico3Ejercicio5\obj\Debug\net6.0\TrabajoPractico3Ejercicio5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanm\source\repos\TrabajoPractico3Ejercicio5\TrabajoPractico3Ejercicio5\obj\Debug\net6.0\TrabajoPractico3Ejercicio5.AssemblyInfoInputs.cache
+C:\Users\juanm\source\repos\TrabajoPractico3Ejercicio5\TrabajoPractico3Ejercicio5\obj\Debug\net6.0\TrabajoPractico3Ejercicio5.AssemblyInfo.cs
+C:\Users\juanm\source\repos\TrabajoPractico3Ejercicio5\TrabajoPractico3Ejercicio5\obj\Debug\net6.0\TrabajoPractico3Ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\juanm\source\repos\TrabajoPractico3Ejercicio5\TrabajoPractico3Ejercicio5\obj\Debug\net6.0\TrabajoPractico3Ejercicio5.dll
+C:\Users\juanm\source\repos\TrabajoPractico3Ejercicio5\TrabajoPractico3Ejercicio5\obj\Debug\net6.0\refint\TrabajoPractico3Ejercicio5.dll
+C:\Users\juanm\source\repos\TrabajoPractico3Ejercicio5\TrabajoPractico3Ejercicio5\obj\Debug\net6.0\TrabajoPractico3Ejercicio5.pdb
+C:\Users\juanm\source\repos\TrabajoPractico3Ejercicio5\TrabajoPractico3Ejercicio5\obj\Debug\net6.0\TrabajoPractico3Ejercicio5.genruntimeconfig.cache
+C:\Users\juanm\source\repos\TrabajoPractico3Ejercicio5\TrabajoPractico3Ejercicio5\obj\Debug\net6.0\ref\TrabajoPractico3Ejercicio5.dll
